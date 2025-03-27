@@ -19,7 +19,6 @@ This project involves a data analysis of transaction data from a coffee shop cha
 ## Files Included
 
 * `Coffee Shop Sales.xlsx`: The Excel file containing the data analysis and dashboard.
-*  A screenshot of the dashboard.
 
 ## Skills Demonstrated
 
